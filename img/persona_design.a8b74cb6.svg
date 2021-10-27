@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="0 0 289.437 265.941">
 <metadata>
-<vectornator:setting key="RulersVisible" value="1"/>
-<vectornator:setting key="Units" value="Points"/>
 <vectornator:setting key="DynamicGuides" value="1"/>
+<vectornator:setting key="Units" value="Points"/>
 <vectornator:setting key="GuidesVisible" value="1"/>
-<vectornator:setting key="CMYKEnabledKey" value="0"/>
+<vectornator:setting key="RulersVisible" value="1"/>
 <vectornator:setting key="SnapToGuides" value="1"/>
 <vectornator:setting key="GridSpacing" value="36"/>
 </metadata>
@@ -17,7 +16,7 @@ iVBORw0KGgoAAAANSUhEUgAAAIYAAACECAYAAABVsVOaAAAMZGlDQ1BJQ0MgUHJvZmlsZQAASImVVwdc
 <stop stop-color="#f28138" offset="1"/>
 </radialGradient>
 </defs>
-<g id="Calque 7" vectornator:layerName="Calque 7">
+<g id="Calque 7" vectornator:layerName="Calque 7" visibility="hidden">
 <path stroke="#6e4848" fill-rule="evenodd" stroke-opacity="0" stroke-width="1" d="M-1.4369+0L174.564+0L289.437+0L289.437+265.941L-1.4369+265.941L-1.4369+0Z" fill="url(#RadialGradient)" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
 </g>
 <g id="Calque 6" vectornator:layerName="Calque 6">
