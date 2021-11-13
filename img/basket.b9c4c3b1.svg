@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="0 0 24 24">
+<metadata>
+<vectornator:setting key="DynamicGuides" value="1"/>
+<vectornator:setting key="Units" value="Points"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="GridSpacing" value="36"/>
+</metadata>
+<defs/>
+<g id="Untitled" vectornator:layerName="Untitled">
+<path d="M17.4848+17.7809L17.4848+18.5777C17.4848+19.0177+17.1281+19.3745+16.688+19.3745L5.53269+19.3745C5.09263+19.3745+4.73588+19.0177+4.73588+18.5777L4.73588+17.7809C4.73588+15.1405+6.87634+13+9.51673+13L12.704+13C15.3444+13+17.4848+15.1405+17.4848+17.7809Z" fill-rule="evenodd" fill="#929392" opacity="1"/>
+<path d="M16.7838+9.98167C16.7838+9.98167+17.3825+4+11.8749+4C6.36716+4+7.21621+9.98167+7.21621+9.98167L2.81806+9.98167C2.31306+9.98167+1.89987+10.3949+1.89987+10.8999C1.89987+10.9871+1.91364+11.0697+1.93201+11.1478L4.25963+19.6594C4.4754+20.4307+5.187+21+6.03174+21L17.9683+21C18.813+21+19.5246+20.4307+19.7358+19.6548L22.0634+11.1432C22.0864+11.0697+22.1001+10.9871+22.1001+10.8999C22.1001+10.3949+21.6869+9.98167+21.1819+9.98167L16.7838+9.98167ZM14.7546+9.98167L14.7546+9.98167L9.24542+9.98167C9.24542+9.98167+8.55255+5.94162+11.8749+5.94162C15.1972+5.94162+14.7546+9.98167+14.7546+9.98167M12+17.3272C10.9854+17.3272+10.1636+16.5054+10.1636+15.4908C10.1636+14.4762+10.9854+13.6544+12+13.6544C13.0146+13.6544+13.8364+14.4762+13.8364+15.4908C13.8364+16.5054+13.0146+17.3272+12+17.3272Z" fill-rule="evenodd" fill="#929392" opacity="1"/>
+</g>
+</svg>
